@@ -1,6 +1,6 @@
 memory_idx = 0
 ip = 0
-main_memory = Array.new(30000, 0)
+main_memory = Array.new(256, 0)
 
 program = File.read("program.bf")
 
